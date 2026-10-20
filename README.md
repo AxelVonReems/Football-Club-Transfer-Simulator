@@ -104,8 +104,8 @@ La aplicación está desarrollada en Java, utilizando clases, herencia, interfac
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/AxelVonReems/MEDAC-PMC1-P5.git
-cd MEDAC-PMC1-P5
+git clone https://github.com/AxelVonReems/Football-Club-Transfer-Simulator.git
+cd Football-Club-Transfer-Simulator
 ```
 
 ### Compilar el proyecto
